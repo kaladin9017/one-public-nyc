@@ -13,7 +13,7 @@ const buttonPadding = {
 class App extends Component {
   constructor(props) {
     super(props)
-    this.state = {emailRecieved: false, playing: false}
+    this.state = {emailRecieved: false, playing: true}
   }
 
   handleMouseOnOff(isPlaying) {

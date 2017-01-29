@@ -11,6 +11,7 @@
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-drive-in": "^1.7.3",
+    "react-html5video": "^1.4.0",
     "react-player": "^0.14.1",
     "semantic-ui-css": "^2.2.4",
     "semantic-ui-react": "^0.64.4"
